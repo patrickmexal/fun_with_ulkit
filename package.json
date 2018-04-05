@@ -1,0 +1,22 @@
+{
+  "name": "fun_with_ulkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmexal/fun_with_ulkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmexal/fun_with_ulkit/issues"
+  },
+  "homepage": "https://github.com/patrickmexal/fun_with_ulkit#readme",
+  "dependencies": {
+    "uikit": "^3.0.0-beta.42"
+  }
+}
